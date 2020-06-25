@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.scan-window{
+    width: 100%;
+    height: 80vh;
+    background-color: black;
+}
+.output{
+    text-align: center;
+}
